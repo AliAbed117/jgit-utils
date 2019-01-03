@@ -1,0 +1,11 @@
+*.bak
+*.log
+*.swp
+.classpath
+.project
+.settings
+.springBeans
+target/
+.idea/
+*.iml
+*.class
